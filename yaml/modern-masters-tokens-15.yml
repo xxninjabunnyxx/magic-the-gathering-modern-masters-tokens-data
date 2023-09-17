@@ -1,0 +1,126 @@
+---
+object: card
+id: 828b9eb1-ccdc-4540-9d53-7853539af189
+oracle_id: 318d6000-b6e0-4ef0-ad58-d470f4a271e6
+multiverse_ids: []
+tcgplayer_id: 78475
+name: Worm
+lang: en
+released_at: '2013-06-07'
+uri: https://api.scryfall.com/cards/828b9eb1-ccdc-4540-9d53-7853539af189
+scryfall_uri: https://scryfall.com/card/tmma/15/worm?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/2/828b9eb1-ccdc-4540-9d53-7853539af189.jpg?1562702171
+  normal: https://cards.scryfall.io/normal/front/8/2/828b9eb1-ccdc-4540-9d53-7853539af189.jpg?1562702171
+  large: https://cards.scryfall.io/large/front/8/2/828b9eb1-ccdc-4540-9d53-7853539af189.jpg?1562702171
+  png: https://cards.scryfall.io/png/front/8/2/828b9eb1-ccdc-4540-9d53-7853539af189.png?1562702171
+  art_crop: https://cards.scryfall.io/art_crop/front/8/2/828b9eb1-ccdc-4540-9d53-7853539af189.jpg?1562702171
+  border_crop: https://cards.scryfall.io/border_crop/front/8/2/828b9eb1-ccdc-4540-9d53-7853539af189.jpg?1562702171
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Worm
+oracle_text: ''
+power: '1'
+toughness: '1'
+colors:
+- B
+- G
+color_identity:
+- B
+- G
+keywords: []
+all_parts:
+- object: related_card
+  id: d3f5a635-1ebc-4345-84ab-5d6964a32778
+  component: combo_piece
+  name: Creakwood Liege
+  type_line: Creature — Horror
+  uri: https://api.scryfall.com/cards/d3f5a635-1ebc-4345-84ab-5d6964a32778
+- object: related_card
+  id: 828b9eb1-ccdc-4540-9d53-7853539af189
+  component: token
+  name: Worm
+  type_line: Token Creature — Worm
+  uri: https://api.scryfall.com/cards/828b9eb1-ccdc-4540-9d53-7853539af189
+- object: related_card
+  id: 776b5512-2520-4fd5-87a3-f8a5c56769ad
+  component: combo_piece
+  name: Worm Harvest
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/776b5512-2520-4fd5-87a3-f8a5c56769ad
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: e03160f8-6045-4613-9869-f5f4fa12604d
+set: tmma
+set_name: Modern Masters Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/e03160f8-6045-4613-9869-f5f4fa12604d
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atmma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tmma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/828b9eb1-ccdc-4540-9d53-7853539af189/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A318d6000-b6e0-4ef0-ad58-d470f4a271e6&unique=prints
+collector_number: '15'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Chuck Lukacs
+artist_ids:
+- 2bdf4da7-c66c-4c46-a253-284c856ccfab
+illustration_id: 378a91e5-1f4c-4b4a-9a65-7757e2e7a34d
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '0.36'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Worm&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Worm&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Worm
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/78475?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Worm&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Worm&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

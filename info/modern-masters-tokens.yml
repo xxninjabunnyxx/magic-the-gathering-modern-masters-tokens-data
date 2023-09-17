@@ -1,0 +1,16 @@
+---
+object: set
+id: e03160f8-6045-4613-9869-f5f4fa12604d
+code: tmma
+name: Modern Masters Tokens
+uri: https://api.scryfall.com/sets/e03160f8-6045-4613-9869-f5f4fa12604d
+scryfall_uri: https://scryfall.com/sets/tmma
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atmma&unique=prints
+released_at: '2013-06-07'
+set_type: token
+card_count: 16
+parent_set_code: mma
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/mma.svg?1694404800
